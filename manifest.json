@@ -1,0 +1,6 @@
+{
+  "name": "BilibiliProvider",
+  "version": 5,
+  "requiresResources": false,
+  "pluginClassName": "com.lagradost.cloudstream3.movieproviders.BilibiliPlugin"
+}
